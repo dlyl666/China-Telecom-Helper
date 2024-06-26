@@ -2,7 +2,7 @@
 # China-Telecom-Helper 中国电信助手
 中国电信助手 白嫖年入保底256+话费
 
-频道:https://t.me/ChinaTelecomHelper
+频道:https://t.me/dlkj6
 
 每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆),支付宝小程序任务
 
@@ -170,7 +170,7 @@ https://api.isoyu.com/time/SysTime/?appCode=B586A14C4EC466D33682F8626CCB3794&aut
 
 需要打赏了,用于支付服务器费用.截至2023年5月22日0人打赏,已关闭相关依赖服务器服务 部分功能已无法使用
 
-~![image.png](https://raw.githubusercontent.com/insoxin/API/master/Sponsor.jpg)~
+~![image.png](https://github.com/dlyl666/xn--2qux23c4tp4ko.github.io/blob/main/images/mm_reward_qrcode_1719392974352.png)~
 
 不盈利.如果你发现有什么签到奖励蛮好的,可以留言,无偿定制
 
