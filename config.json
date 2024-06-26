@@ -4,11 +4,11 @@
 		"systime": "http://cloudflare.api.isoyu.com/time/SysTime/?appCode=B586A14C4EC466D33682F8626CCB3794&auturl=api.isoyu.com&num=13",
 		"Authorization": "false",
 		"alipay": "",
-		"sign": "",
-		"ua": "",
+		"sign": "efd9a803783146c5a0f27f7a8f692209",
+		"ua": "CtClient;10.0.1;Android;12;22081212C;NTA4ODk4!#!MTUzOTg",
 		"Monthlybeans": "",
 		"cookie": "cookie",
-		"Notice": "https://t.me/ChinaTelecomHelper",
+		"Notice": "https://t.me/dlkj6",
 		"phone": 13800138000,
 		"para": [{
 			"setting": "true"
